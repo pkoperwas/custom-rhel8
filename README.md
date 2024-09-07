@@ -5,7 +5,7 @@
 
 **Download files:**
 ```
-wget https://raw.githubusercontent.com/pkoperwas/custom-rhel8/main/rhel8-ks.cfg -O /nfs-server/ks.cfg
+wget https://raw.githubusercontent.com/pkoperwas/custom-rhel8/main/rhel8-ks.cfg -O /nfs-server/rhel8-ks.cfg
 wget (from RedHat customer portal) rhel-8.10-x86_64-dvd.iso -O /nfs-server/rhel-8.10-x86_64-dvd.iso
 ```
 
